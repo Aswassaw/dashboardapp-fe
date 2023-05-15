@@ -19,7 +19,7 @@ export default function Login() {
       setisLoading(true);
 
       const res = await axios.post(
-        `${process.env.REACT_APP_API_URL}/auth/login`,
+        `https://dashboardapp-be.onrender.com/auth/login`,
         {
           username: form.username,
           password: form.password,

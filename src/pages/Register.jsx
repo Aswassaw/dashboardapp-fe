@@ -18,7 +18,7 @@ export default function Register() {
     try {
       setisLoading(true);
 
-      await axios.post(`${process.env.REACT_APP_API_URL}/auth/register`, {
+      await axios.post(`https://dashboardapp-be.onrender.com/auth/register`, {
         username: form.username,
         password: form.password,
       });
