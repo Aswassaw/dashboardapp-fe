@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "bulan": "Januari",
+      "jumlah": 3493
+    },
+    {
+      "bulan": "Februari",
+      "jumlah": 9288
+    },
+    {
+      "bulan": "Maret",
+      "jumlah": 123
+    },
+    {
+      "bulan": "April",
+      "jumlah": 2636
+    },
+    {
+      "bulan": "Mei",
+      "jumlah": 1121
+    },
+    {
+      "bulan": "Juni",
+      "jumlah": 929
+    },
+    {
+      "bulan": "Juli",
+      "jumlah": 1001
+    },
+    {
+      "bulan": "Agustus",
+      "jumlah": 6372
+    },
+    {
+      "bulan": "September",
+      "jumlah": 525
+    },
+    {
+      "bulan": "November",
+      "jumlah": 1525
+    },
+    {
+      "bulan": "Desember",
+      "jumlah": 7261
+    }
+  ]
+}

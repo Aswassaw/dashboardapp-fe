@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "provinsi": "Aceh",
+      "jumlah": 240
+    },
+    {
+      "provinsi": "Sumatera Utara",
+      "jumlah": 201
+    },
+    {
+      "provinsi": "Sumatera Barat",
+      "jumlah": 176
+    },
+    {
+      "provinsi": "Riau",
+      "jumlah": 100
+    },
+    {
+      "provinsi": "Jambi",
+      "jumlah": 60
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "jumlah": 122
+    },
+    {
+      "provinsi": "Bengkulu",
+      "jumlah": 342
+    },
+    {
+      "provinsi": "Lampung",
+      "jumlah": 231
+    },
+    {
+      "provinsi": "Kepulauan Bangka Belitung",
+      "jumlah": 222
+    },
+    {
+      "provinsi": "Kepulauan Riau",
+      "jumlah": 29
+    },
+    {
+      "provinsi": "DKI Jakarta",
+      "jumlah": 3737
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "jumlah": 2012
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "jumlah": 3000
+    },
+    {
+      "provinsi": "DI Yogyakarta",
+      "jumlah": 1299
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "jumlah": 2000
+    },
+    {
+      "provinsi": "Banten",
+      "jumlah": 982
+    },
+    {
+      "provinsi": "Bali",
+      "jumlah": 600
+    },
+    {
+      "provinsi": "Nusa Tenggara Barat",
+      "jumlah": 24
+    },
+    {
+      "provinsi": "Nusa Tenggara Timur",
+      "jumlah": 21
+    },
+    {
+      "provinsi": "Kalimantan Barat",
+      "jumlah": 234
+    },
+    {
+      "provinsi": "Kalimantan Tengah",
+      "jumlah": 111
+    },
+    {
+      "provinsi": "Kalimantan Selatan",
+      "jumlah": 232
+    },
+    {
+      "provinsi": "Kalimantan Timur",
+      "jumlah": 567
+    },
+    {
+      "provinsi": "Kalimantan Utara",
+      "jumlah": 353
+    },
+    {
+      "provinsi": "Sulawesi Utara",
+      "jumlah": 754
+    },
+    {
+      "provinsi": "Sulawesi Tengah",
+      "jumlah": 232
+    },
+    {
+      "provinsi": "Sulawesi Selatan",
+      "jumlah": 12
+    },
+    {
+      "provinsi": "Sulawesi Tenggara",
+      "jumlah": 232
+    },
+    {
+      "provinsi": "Gorontalo",
+      "jumlah": 73
+    },
+    {
+      "provinsi": "Sulawesi Barat",
+      "jumlah": 12
+    },
+    {
+      "provinsi": "Maluku",
+      "jumlah": 235
+    },
+    {
+      "provinsi": "Maluku Utara",
+      "jumlah": 754
+    },
+    {
+      "provinsi": "Papua",
+      "jumlah": 342
+    },
+    {
+      "provinsi": "Papua Barat",
+      "jumlah": 1000
+    }
+  ]
+}
